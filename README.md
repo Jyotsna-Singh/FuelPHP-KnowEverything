@@ -1,4 +1,45 @@
-#FuelPHP
+# KnowEveryThing
+
+**KnowEveryThing** is a video Album repository built withthe FuelPHP Framework. User can add,view,edit,delete youtube videos to his collection.
+
+* Features/Technologies: 
+  * FuelPHP 1.8 Framework
+  * MVC, PHP OOP, PHPMyAdmin
+  * MySQL CRUD, Superglobals (GET, POST)
+
+## Version
+1.0.0
+
+## Live Demo
+ [KnowEverything](http://jyotsnasingh.com/projects/FuelPHP/KnowEverything)
+
+
+## Usage
+
+**Home** | 
+--- |
+Home Page | 
+![alt text](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
+
+**View Video** | 
+--- |
+View Video | 
+![alt text](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/video.PNG)  | 
+
+**Add Video** | 
+--- |
+Add Video | 
+![alt text](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/add-vid.PNG)  | 
+
+## Vendors
+FuelPHP - [https://fuelphp.com/](https://fuelphp.com/)  
+ 
+
+## License
+MIT License
+
+
+# FuelPHP
 
 * Version: 1.8
 * [Website](http://fuelphp.com/)
