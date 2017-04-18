@@ -1,4 +1,8 @@
-# KnowEveryThing
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/assets/img/logo.PNG">
+</p>
+
 
 **KnowEveryThing** is a video Album repository built withthe FuelPHP Framework. User can add,view,edit,delete youtube videos to his collection.
 
@@ -19,7 +23,7 @@
 **Home** | 
 --- |
 Home Page | 
-![alt text](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
 
 **View Video** | 
 --- |
