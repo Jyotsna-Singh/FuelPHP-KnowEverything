@@ -14,8 +14,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [KnowEverything](http://jyotsnasingh.com/projects/FuelPHP/KnowEverything)
+## Live Demo - KnowEverything
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](http://jyotsnasingh.com/projects/FuelPHP/KnowEverything)
 
 
 ## Usage
@@ -23,7 +23,7 @@
 **Home** | 
 --- |
 Home Page | 
-[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
+[![alt tag](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
 
 **View Video** | 
 --- |
