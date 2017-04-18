@@ -23,7 +23,7 @@
 **Home** | 
 --- |
 Home Page | 
-[![alt tag](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
+![alt tag](https://github.com/Jyotsna-Singh/FuelPHP-KnowEverything/blob/master/public/home.PNG)  | 
 
 **View Video** | 
 --- |
